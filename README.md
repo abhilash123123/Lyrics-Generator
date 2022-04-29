@@ -4,7 +4,7 @@
 1. Clone the repository
 
    ```powershell
-       $ git clone 
+       $ git clone https://github.com/sahrohit/lyrics-generator.git
        $ cd ml-chatbot
    ```
 
